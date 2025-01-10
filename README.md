@@ -1,4 +1,4 @@
-# TryHackMe
+# Certification/Training
 
 <a href="https://tryhackme.com/p/rave007"><img src="https://tryhackme-badges.s3.amazonaws.com/rave007.png" alt="TryHackMe"></a>
 
@@ -27,4 +27,8 @@ Cert ID: <code>THM-PVCV1VHSGC</code></p>
 Issued on: <code>11th September 2024</code> <br>
 Cert ID: <code>THM-6VJITDUTPT</code></p>
 
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> ✅ <a href="https://github.com/rave007/TryHackMe/blob/main/Certificates/CWL.png">Multi-Cloud Red Teaming Analyst</a></li>
 
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/rave007/TryHackMe/blob/main/Certificates/CWL.png"><img width="400" src="https://github.com/rave007/TryHackMe/blob/main/Certificates/CWL.png" style="max-width: 100%;"></a> <br>
+Issued on: <code>10th January 2025</code> <br>
+Cert ID: <code>67819273f6d2b394d97a44d3</code></p>
