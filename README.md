@@ -14,8 +14,6 @@ Issued on: <code>10th January 2025</code> <br>
 Cert ID: <code>67819273f6d2b394d97a44d3</code></p>
 
 
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> ✅ <a href="https://github.com/rave007/TryHackMe/blob/main/Certificates/THM-DKRFIEIRJG.png">Introduction to Cyber Security</a></li>
-
 <b><u>Learning Path:</u></b>
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> ✅ <a href="https://github.com/rave007/TryHackMe/blob/main/Certificates/THM-DKRFIEIRJG.png">Introduction to Cyber Security</a></li>
 
