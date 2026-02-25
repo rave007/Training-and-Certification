@@ -1,6 +1,6 @@
 # Certification/Training
 
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> ✅ <a href="https://github.com/rave007/TryHackMe/blob/main/Certificates/CWL.png">eLearning Junior Penetration Tester (eJPT)</a></li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> ✅ <a href="https://github.com/rave007/TryHackMe/blob/main/Certificates/ejpt.png">eLearning Junior Penetration Tester (eJPT)</a></li>
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/rave007/TryHackMe/blob/main/Certificates/CWL.png"><img width="400" src="https://github.com/rave007/TryHackMe/blob/main/Certificates/CWL.png" style="max-width: 100%;"></a> <br>
 Issued on: <code>24th February 2026</code> <br>
